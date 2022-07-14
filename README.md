@@ -66,10 +66,7 @@ $ npm run deploy:heroku
 ```
 
 ### frontend deployed on firebase
-
-```
-   [https://hackearth-assignment-frontend.web.app](https://hackearth-assignment-frontend.web.app/)
-```
+   [https://hackearth-assignment-frontend.web.app] (https://hackearth-assignment-frontend.web.app/)
 
 
 # Dependencies(tech-stacks)
