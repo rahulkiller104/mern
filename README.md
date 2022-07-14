@@ -90,9 +90,9 @@ react-dom: ^16.2.0 | express: ^4.14.0
 react-router-dom: ^4.2.2 | mongoose: ^4.7.4
 
 
-## Standard
+## frontend hosted on firbase
 
-[![JavaScript Style Guide](https://cdn.rawgit.com/standard/standard/master/badge.svg)](https://github.com/standard/standard)
+[LINK](https://hackearth-assignment-frontend.web.app/)
 
 ## BUGs or comments
 
