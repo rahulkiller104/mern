@@ -46,15 +46,6 @@ $ npm run start // run it locally
 
 
 ## Server-side usage(PORT: 8000)
-
-
-```terminal
-// in the root level
-$ echo "JWT_SECRET=YOUR_JWT_SECRET" >> ./server/src/.env
-```
-
-### Start
-
 ```terminal
 $ cd server   // go to server folder
 $ npm i       // npm install packages
