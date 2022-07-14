@@ -74,12 +74,12 @@ $ pwd
 $ npm run deploy:heroku
 ```
 
-### After creating heroku
+### frontend deployed on firebase
 
-remember to update the file of [client/webpack.prod.js](https://github.com/amazingandyyy/mern/blob/master/client/webpack.prod.js)
-```javascript
- 'API_URI': JSON.stringify('https://your-super-amazing-heroku-app.herokuapp.com')
 ```
+   [https://hackearth-assignment-frontend.web.app](https://hackearth-assignment-frontend.web.app/)
+```
+
 
 # Dependencies(tech-stacks)
 Client-side | Server-side
@@ -90,15 +90,7 @@ react-dom: ^16.2.0 | express: ^4.14.0
 react-router-dom: ^4.2.2 | mongoose: ^4.7.4
 
 
-## frontend hosted on firbase
-
-[LINK](https://hackearth-assignment-frontend.web.app/)
-
-## BUGs or comments
-
-[Create new Issues](https://github.com/amazingandyyy/mern/issues) (preferred)
-
-Email Me: amazingandyyy@gmail.com (welcome, say hi)
+Email Me: rahulkumar10433@gmail.com (welcome, say hi)
 
 ### License
 [MIT](https://github.com/amazingandyyy/mern/blob/master/LICENSE)
